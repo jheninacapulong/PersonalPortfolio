@@ -10,9 +10,9 @@ import Contact from "@/components/Contact";
 
 const heroImage = "/hero3.JPG";
 const projectImages = [
-  "https://media.base44.com/images/public/6a1527b8fb8236419f128f37/f5967f0f1_generated_165d3712.png",
-  "https://media.base44.com/images/public/6a1527b8fb8236419f128f37/b925d2128_generated_7b2251c6.png",
-  "https://media.base44.com/images/public/6a1527b8fb8236419f128f37/976aa07c1_generated_986e95b2.png",
+  "1.png",
+  "2.png",
+  "3.png",
 ];
 
 export default function Home() {

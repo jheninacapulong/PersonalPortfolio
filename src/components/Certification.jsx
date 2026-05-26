@@ -3,7 +3,7 @@ import { motion, AnimatePresence } from "framer-motion";
 import { certifications } from "@/lib/portfolioData";
 import CertModal from "./CertModal";
 
-const filters = ["All (Board View)", "All (Gallery View)", "Cisco", "CompTIA", "DataCamp", "HubSpot"];
+const filters = ["All","LinkedIn", "Cisco", "CompTIA", "DataCamp", "HubSpot"];
 
 const categoryColors = {
   "Data Analytics / Data Science": "#0F71731a",
@@ -19,7 +19,7 @@ const categoryColors = {
 };
 
 export default function Certifications() {
-  const [activeFilter, setActiveFilter] = useState("All (Board View)");
+  const [activeFilter, setActiveFilter] = useState("All");
   const [selectedCert, setSelectedCert] = useState(null);
 
   const filtered = useMemo(() => {
@@ -36,7 +36,7 @@ export default function Certifications() {
     return Object.entries(map);
   }, [filtered]);
 
-  const isBoard = activeFilter === "All (Board View)";
+  const isBoard = activeFilter === "All";
 
   return (
     <section id="certifications" className="py-24 md:py-32 bg-background">

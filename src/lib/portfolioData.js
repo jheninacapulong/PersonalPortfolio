@@ -112,19 +112,19 @@ export const projects = [
   {
     title: "FurBe: A Dog Mood Detector Analysis App",
     description: "AI-powered dog emotion detection mobile application using TensorFlow Lite and Flutter for real-time canine mood analysis.",
-    tags: ["Thesis Project", "Flutter", "TensorFlow Lite", "AI/ML"],
+    tags: ["Thesis Project", "Flutter", "Mobile Application", "TensorFlow Lite", "AI/ML"],
     link: "https://jheninacapulong.notion.site/FurBe-A-Dog-Mood-Detector-Analysis-App-for-Android-2a154f3996c180189bc9d07257cabc28",
   },
   {
     title: "Twist & Bloom Platform",
     description: "A creative floral arrangement and e-commerce platform with modern UI design and seamless user experience.",
-    tags: ["Web Development", "UI/UX", "E-commerce"],
+    tags: ["Flutter", "Mobile Application", "UI/UX", "E-commerce"],
     link: "https://www.notion.so/jheninacapulong/Twist-Bloom-Platform-2a154f3996c180ec9331c34d54a72087?source=copy_link",
   },
   {
     title: "PCOS Care",
     description: "A women's health tracking application designed to help manage and monitor Polycystic Ovary Syndrome symptoms.",
-    tags: ["Health Tech", "Mobile App", "Flutter"],
+    tags: ["Health Tech", "Desktop Application", "Python", "Tkinter GUI", "Algorithmic Prediction"],
     link: "https://www.notion.so/jheninacapulong/PCOS-Care-2a454f3996c18031a5a9d2a480f33f94?source=copy_link",
   },
 ];

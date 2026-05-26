@@ -24,17 +24,14 @@ export default function About() {
               About Me
             </p>
             <h2 className="font-heading text-4xl md:text-5xl font-bold text-foreground mb-6 leading-tight">
-              Where Technology<br />
-              <span className="italic font-medium text-foreground/60">Meets Creativity</span>
+              Trusted with Excellence<br />
+              <span className="italic font-medium text-foreground/60">Committed to Growth</span>
             </h2>
             <p className="font-body text-base leading-[1.8] text-muted-foreground mb-4">
-              I'm a Computer Science graduate from Holy Angel University with a deep passion 
-              for building impactful digital solutions. My journey spans data analytics, 
-              software engineering, UX design, and social media strategy.
+              I am a Computer Science graduate with experience in IT support, UI design, customer service, and administrative tasks gained through my internship and other work exposure. I am hardworking, flexible, and able to respond effectively to changing priorities and work requirements.
             </p>
             <p className="font-body text-base leading-[1.8] text-muted-foreground">
-              From building AI-powered mobile applications to managing digital communities, 
-              I thrive at the intersection of technical innovation and human-centered design.
+              My dedication and strong work ethic are reflected in my achievements as a <strong>Magna Cum Laude graduate</strong> and recipient of the <strong>Best Computer Science On-the-Job Trainee award</strong>.
             </p>
           </motion.div>
 

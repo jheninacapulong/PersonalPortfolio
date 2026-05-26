@@ -19,7 +19,7 @@ export default function Contact() {
               viewport={{ once: true }}
               transition={{ duration: 0.6 }}
             >
-              <p className="text-xs font-body font-semibold tracking-[0.25em] uppercase mb-4" style={{ color: "#0F7173" }}>
+              <p className="text-xs font-body font-semibold tracking-[0.25em] uppercase mb-4" style={{ color: "#21e2e6" }}>
                 Get In Touch
               </p>
               <h2 className="font-heading text-4xl md:text-5xl font-bold text-white mb-6 leading-tight">

@@ -72,8 +72,7 @@ export default function Hero({ heroImage }) {
           </div>
 
           <p className="font-body text-base leading-[1.8] text-muted-foreground max-w-md">
-            Passionate about building impactful digital solutions at the intersection
-            of data, design, and engineering.
+            Proactively seeking new challenges and stepping up to responsibilities that push my limits.
           </p>
 
           <div className="flex flex-wrap gap-3 pt-2">
@@ -82,10 +81,7 @@ export default function Hero({ heroImage }) {
               target="_blank"
               rel="noopener noreferrer"
             >
-              <Button
-                className="rounded-full px-7 py-5 text-sm font-body font-medium shadow-lg shadow-primary/20 gap-2"
-                style={{ backgroundColor: "#0F7173", color: "#fff" }}
-              >
+              <Button className=" rounded-full px-7 py-5 text-sm font-body font-medium gap-2 text-white bg-[#0F7173] hover:bg-[#0b5f61] transition-colors duration-300 shadow-lg shadow-primary/20 ">
                 <FileText size={15} />
                 View Resume
               </Button>
